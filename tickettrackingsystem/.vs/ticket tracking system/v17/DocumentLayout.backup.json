@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\controllers\\adminticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\controllers\\adminticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\controllers\\attachmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\controllers\\attachmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\models\\ticketassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\models\\ticketassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\controllers\\customerticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\controllers\\customerticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7DD010-607E-41BF-9D6C-15FC94636301}|ticket tracking.Tests\\ticket tracking.Tests.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking.tests\\controllers\\ticketcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7DD010-607E-41BF-9D6C-15FC94636301}|ticket tracking.Tests\\ticket tracking.Tests.csproj|solutionrelative:ticket tracking.tests\\controllers\\ticketcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|c:\\users\\2378310\\downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\dtos\\assignticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7C7028-7BAE-4B0F-A224-F3325A30832C}|ticket tracking system\\ticket tracking system.csproj|solutionrelative:ticket tracking system\\dtos\\assignticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\appsettings.json",
+              "RelativeDocumentMoniker": "ticket tracking system\\appsettings.json",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\appsettings.json",
+              "RelativeToolTip": "ticket tracking system\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T11:47:52.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ticket tracking system\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ticket tracking system\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T11:47:33.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "ticket tracking system\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Models\\Ticket.cs",
+              "RelativeToolTip": "ticket tracking system\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:47:05.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ticket tracking system\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "ticket tracking system\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:47:02.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttachmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Controllers\\AttachmentsController.cs",
+              "RelativeDocumentMoniker": "ticket tracking system\\Controllers\\AttachmentsController.cs",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Controllers\\AttachmentsController.cs",
+              "RelativeToolTip": "ticket tracking system\\Controllers\\AttachmentsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:06:18.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "ticket tracking system\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Services\\EmailService.cs",
+              "RelativeToolTip": "ticket tracking system\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:06:08.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ticket tracking system\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ticket tracking system\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:05:54.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerTicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Controllers\\CustomerTicketsController.cs",
+              "RelativeDocumentMoniker": "ticket tracking system\\Controllers\\CustomerTicketsController.cs",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Controllers\\CustomerTicketsController.cs",
+              "RelativeToolTip": "ticket tracking system\\Controllers\\CustomerTicketsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:00:00.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ticket tracking system\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Models\\User.cs",
+              "RelativeToolTip": "ticket tracking system\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:57:42.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "ticket tracking system\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Services\\JwtService.cs",
+              "RelativeToolTip": "ticket tracking system\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:13:24.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TicketControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking.Tests\\Controllers\\TicketControllerTests.cs",
+              "RelativeDocumentMoniker": "ticket tracking.Tests\\Controllers\\TicketControllerTests.cs",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking.Tests\\Controllers\\TicketControllerTests.cs",
+              "RelativeToolTip": "ticket tracking.Tests\\Controllers\\TicketControllerTests.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:22:07.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminTicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Controllers\\AdminTicketsController.cs",
+              "RelativeDocumentMoniker": "ticket tracking system\\Controllers\\AdminTicketsController.cs",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Controllers\\AdminTicketsController.cs",
+              "RelativeToolTip": "ticket tracking system\\Controllers\\AdminTicketsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:21:26.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Models\\TicketAssignment.cs",
+              "RelativeDocumentMoniker": "ticket tracking system\\Models\\TicketAssignment.cs",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Models\\TicketAssignment.cs",
+              "RelativeToolTip": "ticket tracking system\\Models\\TicketAssignment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:21:16.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssignTicketDto.cs",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\DTOs\\AssignTicketDto.cs",
+              "RelativeDocumentMoniker": "ticket tracking system\\DTOs\\AssignTicketDto.cs",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\DTOs\\AssignTicketDto.cs",
+              "RelativeToolTip": "ticket tracking system\\DTOs\\AssignTicketDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:21:09.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "ticket tracking system\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "ticket tracking system\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:44:10.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Program.cs",
+              "RelativeDocumentMoniker": "ticket tracking system\\Program.cs",
+              "ToolTip": "C:\\Users\\2378310\\Downloads\\ticket tracking systemnewest\\ticket tracking systemnew(4)\\ticket tracking system1\\ticket tracking system\\ticket tracking system\\Program.cs",
+              "RelativeToolTip": "ticket tracking system\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:01:36.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ticket tracking system", "ticket tracking system\ticket tracking system.csproj", "{6C7C7028-7BAE-4B0F-A224-F3325A30832C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ticket tracking.Tests", "ticket tracking.Tests\ticket tracking.Tests.csproj", "{9B7DD010-607E-41BF-9D6C-15FC94636301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C7C7028-7BAE-4B0F-A224-F3325A30832C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7C7028-7BAE-4B0F-A224-F3325A30832C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7C7028-7BAE-4B0F-A224-F3325A30832C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7C7028-7BAE-4B0F-A224-F3325A30832C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7DD010-607E-41BF-9D6C-15FC94636301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7DD010-607E-41BF-9D6C-15FC94636301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7DD010-607E-41BF-9D6C-15FC94636301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7DD010-607E-41BF-9D6C-15FC94636301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
